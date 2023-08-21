@@ -1,0 +1,11 @@
+traceroute to spotify.com (35.186.224.25), 30 hops max, 60 byte packets
+ 1  192.168.159.182 [*]  1.798 ms  2.008 ms *
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  125.16.100.109 [AS9498]  36.749 ms * * -> Bengluru
+ 6  116.119.68.108 [AS55536]  53.067 ms * * -> Gurugram
+ 7  142.250.169.206 [AS15169]  66.071 ms * * -> Mountain View
+ 8  * * 209.85.251.159 [AS15169]  63.502 ms ->  Mountain View
+ 9  * 142.251.55.61 [AS15169]  64.143 ms * -> Mountain View
+10  35.186.224.25 [AS396982]  62.573 ms * * -> Kansas City

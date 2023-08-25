@@ -1,11 +1,11 @@
 traceroute to apple.com (17.253.144.10), 30 hops max, 60 byte packets
  1  gi0-0-0-19.224.nr11.b038874-1.muc03.atlas.cogentco.com (130.117.254.105) [AS174]  1.091 ms  1.147 ms
- 2  te0-0-0-0.agr12.muc03.atlas.cogentco.com (154.25.7.229)  0.892 ms te0-0-0-0.agr11.muc03.atlas.cogentco.com (154.25.7.225)  0.838 ms
- 3  be3245.ccr22.muc03.atlas.cogentco.com (130.117.50.21)  1.079 ms be3244.ccr22.muc03.atlas.cogentco.com (130.117.50.13)  1.209 ms
- 4  be2959.ccr41.fra03.atlas.cogentco.com (154.54.36.53)  6.080 ms be2960.ccr42.fra03.atlas.cogentco.com (154.54.36.253)  6.275 ms
- 5  be3187.agr41.fra03.atlas.cogentco.com (130.117.1.117)  6.337 ms be3186.agr41.fra03.atlas.cogentco.com (130.117.0.2)  6.411 ms
- 6  telia.fra03.atlas.cogentco.com (130.117.14.198)  6.057 ms  6.044 ms
+ 2  te0-0-0-0.agr12.muc03.atlas.cogentco.com (154.25.7.229)[*]  0.892 ms te0-0-0-0.agr11.muc03.atlas.cogentco.com (154.25.7.225)  0.838 ms
+ 3  be3245.ccr22.muc03.atlas.cogentco.com (130.117.50.21)[*]  1.079 ms be3244.ccr22.muc03.atlas.cogentco.com (130.117.50.13)  1.209 ms
+ 4  be2959.ccr41.fra03.atlas.cogentco.com (154.54.36.53)[*]  6.080 ms be2960.ccr42.fra03.atlas.cogentco.com (154.54.36.253)  6.275 ms
+ 5  be3187.agr41.fra03.atlas.cogentco.com (130.117.1.117)[*]  6.337 ms be3186.agr41.fra03.atlas.cogentco.com (130.117.0.2)  6.411 ms
+ 6  telia.fra03.atlas.cogentco.com (130.117.14.198)[*]  6.057 ms  6.044 ms
  7  ffm-bb1-link.ip.twelve99.net (62.115.136.212)[AS1299]  6.314 ms  6.304 ms
  8  ffm-b11-link.ip.twelve99.net (62.115.124.117)[AS1299]  6.340 ms  6.379 ms
- 9  apple-ic-311711.ip.twelve99-cust.net (213.248.93.178)  6.310 ms  6.297 ms
-10  guide.apple.com (17.253.144.10)  6.052 ms !X  5.965 ms !X
+ 9  apple-ic-311711.ip.twelve99-cust.net (213.248.93.178)[*]  6.310 ms  6.297 ms
+10  guide.apple.com (17.253.144.10) [AS174]  6.052 ms !X  5.965 ms !X

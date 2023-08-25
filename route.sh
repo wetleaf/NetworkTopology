@@ -1,11 +1,11 @@
 #! /bin/bash
-traceroute -IAn google.com > google.txt
-traceroute -IAn alibaba.com > alibaba.txt
-traceroute -IAn wikipedia.org > wikipedia.txt
-traceroute -IAn bitcoin.org > bitcoin.txt
-traceroute -IAn amazon.com > amazon.txt
-traceroute -IAn spotify.com > spotify.txt
-traceroute -IAn ntt.com > ntt.txt
-traceroute -IAn vodacom.com > vodacom.txt
-traceroute -IAn apple.com > apple.txt
-traceroute -IAn goldmansachs.com > goldmansachs.txt
+traceroute -Ia google.com > google.txt
+traceroute -Ia alibaba.com > alibaba.txt
+traceroute -Ia wikipedia.org > wikipedia.txt
+traceroute -Ia bitcoin.org > bitcoin.txt
+traceroute -Ia amazon.com > amazon.txt
+traceroute -Ia spotify.com > spotify.txt
+traceroute -Ia ntt.com > ntt.txt
+traceroute -Ia vodacom.com > vodacom.txt
+traceroute -Ia apple.com > apple.txt
+traceroute -Ia goldmansachs.com > goldmansachs.txt

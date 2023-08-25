@@ -1,0 +1,7 @@
+traceroute to bitcoin.org (104.22.68.176), 30 hops max, 60 byte packets
+ 1  gi0-0-0-19.224.nr11.b038874-1.muc03.atlas.cogentco.com (130.117.254.105)  0.890 ms  0.917 ms
+ 2  te0-0-0-0.agr11.muc03.atlas.cogentco.com (154.25.7.225)  0.725 ms  0.762 ms
+ 3  be3242.ccr21.muc03.atlas.cogentco.com (130.117.3.41)  0.885 ms  0.945 ms
+ 4  be3267.rcr61.b016169-2.muc03.atlas.cogentco.com (130.117.51.22)  1.345 ms be3266.rcr61.b016169-2.muc03.atlas.cogentco.com (130.117.50.166)  1.389 ms
+ 5  149.14.102.66 (149.14.102.66)  8.505 ms  8.486 ms
+ 6  104.22.68.176 (104.22.68.176)  0.723 ms  0.712 ms

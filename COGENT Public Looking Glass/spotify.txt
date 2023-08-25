@@ -1,10 +1,10 @@
 traceroute to spotify.com (35.186.224.25), 30 hops max, 60 byte packets
- 1  gi0-0-0-19.224.nr11.b038874-1.muc03.atlas.cogentco.com (130.117.254.105)  1.052 ms  1.104 ms
- 2  te0-0-0-0.agr11.muc03.atlas.cogentco.com (154.25.7.225)  0.774 ms te0-0-0-0.agr12.muc03.atlas.cogentco.com (154.25.7.229)  0.927 ms
- 3  be3244.ccr22.muc03.atlas.cogentco.com (130.117.50.13)  1.215 ms  1.290 ms
- 4  be2960.ccr42.fra03.atlas.cogentco.com (154.54.36.253)  6.181 ms  6.208 ms
- 5  tata.fra03.atlas.cogentco.com (130.117.15.86)  5.830 ms  5.812 ms
- 6  72.14.196.162 (72.14.196.162)  7.688 ms  7.700 ms
- 7  108.170.252.65 (108.170.252.65)  6.724 ms  6.724 ms
- 8  172.253.64.119 (172.253.64.119)  6.569 ms 142.251.64.183 (142.251.64.183)  6.066 ms
- 9  25.224.186.35.bc.googleusercontent.com (35.186.224.25)  5.827 ms  5.809 ms
+ 1  gi0-0-0-19.224.nr11.b038874-1.muc03.atlas.cogentco.com (130.117.254.105) [AS174] 1.052 ms  1.104 ms
+ 2  te0-0-0-0.agr11.muc03.atlas.cogentco.com (154.25.7.225) [*]  0.774 ms te0-0-0-0.agr12.muc03.atlas.cogentco.com (154.25.7.229)  0.927 ms
+ 3  be3244.ccr22.muc03.atlas.cogentco.com (130.117.50.13) [*]  1.215 ms  1.290 ms
+ 4  be2960.ccr42.fra03.atlas.cogentco.com (154.54.36.253) [*]  6.181 ms  6.208 ms
+ 5  tata.fra03.atlas.cogentco.com (130.117.15.86) [*]  5.830 ms  5.812 ms
+ 6  72.14.196.162 (72.14.196.162) [AS15169]  7.688 ms  7.700 ms
+ 7  108.170.252.65 (108.170.252.65) [*]  6.724 ms  6.724 ms
+ 8  172.253.64.119 (172.253.64.119) [*] 6.569 ms 142.251.64.183 (142.251.64.183)  6.066 ms
+ 9  25.224.186.35.bc.googleusercontent.com (35.186.224.25) [AS396982]  5.827 ms  5.809 ms
